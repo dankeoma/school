@@ -1,4 +1,6 @@
 # DANKEUTO SCHOOL API
+The API is developed with flask python as a web package and MySQL databaseand is utilized keying in the required route to aheve the desired aim.
+
 This API is developed for higher istitutions for the smooth running of the school. It covers all the facets of the school. Below are the list of the covered areas:
 1. Programs run by the school
 2. Faculties 
@@ -7,6 +9,29 @@ This API is developed for higher istitutions for the smooth running of the schoo
 4. Courses
 3. Staffs
 
+First at the top of the API is the managing board of the school which comprises:
+* The Vice Chancellor
+* The Lector
+* The Registory
+* The Bosary
+* Etc
+
+The highest in the heirachy is the VC or te lector who now recruits other members.
+
+The group of people mentioned above are responsible for recruiting staff into the working force of the University. The staff now has the responsiblities of registering students while students register courses. 
+The API uses MySQL for its database management. It comprises of many tables:
+* The Board table - Comprising of board of directors.
+* The staff table - Comprising of the staff
+* The student table - Comprising the students record
+* The program tables - Comprising of programmes run by the school
+* The faculty table - Comprising of faculties
+* The department tables - Comprising of departments
+* The course table - Comprising of the courses
+* etc
+
+# Documentation for the use of the school API 
+
+First the API require a API Key to function
 
 # Documentation for the set up of the school API with database
 ## Here are the list of the required files as provided
