@@ -4134,3 +4134,441 @@
 2024-11-05 09:13:19,866 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
 2024-11-05 09:13:19,896 WARNING werkzeug MainThread :  * Debugger is active!
 2024-11-05 09:13:19,906 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-13 08:23:42,229 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-13 08:23:42,241 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-13 08:23:42,259 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-13 08:23:42,413 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-13 08:23:42,414 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-11-13 08:23:42,421 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-13 08:23:43,769 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-13 08:23:43,769 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-13 08:23:43,769 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-13 08:23:43,797 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-13 08:23:43,821 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-13 08:29:58,677 INFO werkzeug Thread-2 : 127.0.0.1 - - [13/Nov/2024 08:29:58] "[32mPOST /login HTTP/1.1[0m" 308 -
+2024-11-13 08:30:00,188 INFO app Thread-3 : Done: Signed in as Staff
+2024-11-13 08:30:00,189 INFO werkzeug Thread-3 : 127.0.0.1 - - [13/Nov/2024 08:30:00] "POST /login/ HTTP/1.1" 200 -
+2024-11-13 08:31:05,510 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-13 08:31:05,667 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-13 08:31:08,161 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-13 08:31:08,161 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-13 08:31:08,162 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-13 08:31:08,208 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-13 08:31:08,223 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-13 08:31:15,153 INFO werkzeug Thread-2 : 127.0.0.1 - - [13/Nov/2024 08:31:15] "[32mPOST /login HTTP/1.1[0m" 308 -
+2024-11-13 08:31:15,726 INFO app Thread-3 : Done: Signed in as Staff
+2024-11-13 08:31:15,727 INFO werkzeug Thread-3 : 127.0.0.1 - - [13/Nov/2024 08:31:15] "POST /login/ HTTP/1.1" 200 -
+2024-11-13 08:33:55,381 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-13 08:33:55,440 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-13 08:55:52,168 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-13 08:55:52,168 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-13 08:55:52,169 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-13 08:55:52,219 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-13 08:55:52,219 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-11-13 08:55:52,222 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-13 08:55:53,220 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-13 08:55:53,220 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-13 08:55:53,220 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-13 08:55:53,242 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-13 08:55:53,250 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-13 08:56:14,675 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-13 08:56:14,729 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 12:16:55,175 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 12:16:55,211 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 12:16:55,212 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 12:16:55,372 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-21 12:16:55,372 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-11-21 12:16:55,388 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 12:16:56,547 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 12:16:56,548 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 12:16:56,548 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 12:16:56,581 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 12:16:56,596 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 12:17:41,944 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 12:17:41] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2024-11-21 12:17:49,151 INFO werkzeug Thread-3 : 127.0.0.1 - - [21/Nov/2024 12:17:49] "GET / HTTP/1.1" 200 -
+2024-11-21 12:19:53,437 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 12:19:53,497 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 12:19:54,778 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 12:19:54,778 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 12:19:54,779 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 12:19:54,812 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 12:19:54,821 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 12:56:08,347 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 12:56:08,410 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 12:56:09,450 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 12:56:09,451 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 12:56:09,451 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 12:56:09,479 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 12:56:09,487 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:00:20,551 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:00:20,623 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:00:22,204 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:00:22,204 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:00:22,204 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:00:22,238 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:00:22,252 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:03:10,324 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:03:10,403 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:03:11,642 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:03:11,643 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:03:11,643 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:03:11,673 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:03:11,683 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:08:22,072 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:08:22,157 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:08:23,423 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:08:23,423 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:08:23,423 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:08:23,459 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:08:23,469 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:09:27,860 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:09:27,918 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:09:28,984 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:09:28,985 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:09:28,985 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:09:29,019 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:09:29,026 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:16:26,066 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:16:26,125 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:16:27,146 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:16:27,146 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:16:27,146 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:16:27,179 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:16:27,188 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:17:44,918 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:17:45,001 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:17:46,234 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:17:46,234 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:17:46,235 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:17:46,281 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:17:46,295 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:17:52,870 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:17:52,937 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:17:53,897 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:17:53,898 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:17:53,898 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:17:53,938 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:17:53,945 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:22:30,145 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:22:30,217 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:22:31,386 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:22:31,386 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:22:31,387 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:22:31,419 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:22:31,428 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:28:52,467 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:28:52,582 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:44:10,654 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:44:10,654 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:44:10,654 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:44:10,693 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-21 13:44:10,693 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-11-21 13:44:10,696 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:44:12,003 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:44:12,004 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:44:12,004 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:44:12,044 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:44:12,056 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:50:47,851 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:50:47,913 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:50:51,554 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:50:51,554 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:50:51,554 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:50:51,652 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:50:51,660 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:53:04,835 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:53:04,930 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:53:06,701 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:53:06,701 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:53:06,702 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:53:06,738 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:53:06,746 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:57:07,736 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:57:07,894 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:57:09,612 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:57:09,612 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:57:09,612 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:57:09,644 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:57:09,654 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:57:32,464 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 13:57:32] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-11-21 13:57:38,955 ERROR app Thread-3 : Error: Request body must contain vendor and director
+2024-11-21 13:57:39,049 INFO werkzeug Thread-3 : 127.0.0.1 - - [21/Nov/2024 13:57:39] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-11-21 13:59:11,962 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 13:59:12,031 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 13:59:13,146 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 13:59:13,146 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 13:59:13,146 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 13:59:13,178 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 13:59:13,189 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 13:59:58,091 ERROR app Thread-2 : Error: Request body must contain vendor and director
+2024-11-21 13:59:58,141 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 13:59:58] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-11-21 14:00:07,531 ERROR app Thread-3 : Error: Request body must contain vendor and director
+2024-11-21 14:00:07,574 INFO werkzeug Thread-3 : 127.0.0.1 - - [21/Nov/2024 14:00:07] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-11-21 14:00:53,723 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 14:00:53,786 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 14:00:55,208 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 14:00:55,209 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 14:00:55,209 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 14:00:55,246 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 14:00:55,255 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 14:01:04,057 ERROR app Thread-2 : Error: Request body must contain vendor and director
+2024-11-21 14:01:04,097 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 14:01:04] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-11-21 14:04:49,296 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 14:04:49,366 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 14:04:51,266 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 14:04:51,267 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 14:04:51,267 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 14:04:51,312 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 14:04:51,319 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 14:04:56,808 ERROR app Thread-2 : Error: Request body must contain vendor and director
+2024-11-21 14:04:56,809 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 14:04:56] "POST / HTTP/1.1" 200 -
+2024-11-21 14:06:26,958 ERROR app Thread-3 : Error: Something went wrong, missing or wrong request body
+2024-11-21 14:06:26,959 INFO werkzeug Thread-3 : 127.0.0.1 - - [21/Nov/2024 14:06:26] "POST / HTTP/1.1" 200 -
+2024-11-21 14:07:03,591 ERROR app Thread-4 : Error: Request body must contain vendor and director
+2024-11-21 14:07:03,592 INFO werkzeug Thread-4 : 127.0.0.1 - - [21/Nov/2024 14:07:03] "POST / HTTP/1.1" 200 -
+2024-11-21 14:07:24,642 ERROR app Thread-5 : Error: Incorrect data type for vendor and or director
+2024-11-21 14:07:24,642 INFO werkzeug Thread-5 : 127.0.0.1 - - [21/Nov/2024 14:07:24] "POST / HTTP/1.1" 200 -
+2024-11-21 14:07:37,176 ERROR app Thread-6 : Error: Something went wrong, missing or wrong request body
+2024-11-21 14:07:37,177 INFO werkzeug Thread-6 : 127.0.0.1 - - [21/Nov/2024 14:07:37] "POST / HTTP/1.1" 200 -
+2024-11-21 14:12:49,628 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 14:12:49,727 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 14:12:52,143 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 14:12:52,144 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 14:12:52,144 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 14:12:52,206 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 14:12:52,218 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 14:12:59,111 ERROR app Thread-2 : Error: Something went wrong, missing or wrong request body
+2024-11-21 14:12:59,112 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 14:12:59] "POST / HTTP/1.1" 200 -
+2024-11-21 14:17:45,684 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 14:17:45,684 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 14:17:45,685 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 14:17:45,758 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-21 14:17:45,759 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-11-21 14:17:45,763 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 14:17:47,067 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 14:17:47,067 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 14:17:47,067 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 14:17:47,096 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 14:17:47,106 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 18:15:39,420 ERROR app Thread-2 : Error: Something went wrong, missing or wrong request body
+2024-11-21 18:15:39,421 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 18:15:39] "POST / HTTP/1.1" 200 -
+2024-11-21 18:17:20,067 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 18:17:20,219 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 18:17:21,563 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 18:17:21,563 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 18:17:21,564 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 18:17:21,586 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 18:17:21,591 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 18:17:33,060 ERROR app Thread-2 : Error: Something went wrong, missing or wrong request body
+2024-11-21 18:17:33,061 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 18:17:33] "POST / HTTP/1.1" 200 -
+2024-11-21 18:18:27,911 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 18:18:27,964 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 18:18:28,761 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 18:18:28,762 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 18:18:28,762 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 18:18:28,785 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 18:18:28,791 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 18:18:34,240 ERROR app Thread-2 : Error: Something went wrong, missing or wrong request body
+2024-11-21 18:18:34,240 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 18:18:34] "POST / HTTP/1.1" 200 -
+2024-11-21 18:19:42,830 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 18:19:42,884 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 18:19:43,861 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 18:19:43,861 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 18:19:43,861 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 18:19:43,899 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 18:19:43,908 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 18:19:49,071 ERROR app Thread-2 : Error: Something went wrong, missing or wrong request body
+2024-11-21 18:19:49,072 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 18:19:49] "POST / HTTP/1.1" 200 -
+2024-11-21 18:20:18,204 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 18:20:18,269 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 18:20:19,193 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 18:20:19,193 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 18:20:19,194 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 18:20:19,226 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 18:20:19,240 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 18:20:21,749 ERROR app Thread-2 : Error: Something went wrong, missing or wrong request body
+2024-11-21 18:20:21,750 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 18:20:21] "POST / HTTP/1.1" 200 -
+2024-11-21 18:21:07,460 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 18:21:07,723 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 18:21:10,488 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 18:21:10,488 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 18:21:10,489 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 18:21:10,521 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 18:21:10,531 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 18:21:11,636 ERROR app Thread-2 : Error: Something went wrong, missing or wrong request body
+2024-11-21 18:21:11,637 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 18:21:11] "POST / HTTP/1.1" 200 -
+2024-11-21 18:24:02,067 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 18:24:02,121 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 18:24:02,969 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 18:24:02,969 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 18:24:02,970 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 18:24:02,994 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 18:24:03,002 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 18:24:07,590 ERROR app Thread-2 : Error: Something went wrong, missing or wrong request body
+2024-11-21 18:24:07,590 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 18:24:07] "POST / HTTP/1.1" 200 -
+2024-11-21 18:27:42,455 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 18:27:42,531 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 18:29:16,380 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 18:29:16,381 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 18:29:16,381 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 18:29:16,419 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-21 18:29:16,419 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-11-21 18:29:16,421 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 18:29:17,241 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 18:29:17,241 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 18:29:17,241 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 18:29:17,262 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 18:29:17,270 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 18:30:13,299 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 18:30:13,359 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 18:30:14,345 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 18:30:14,346 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 18:30:14,346 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 18:30:14,371 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 18:30:14,377 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 18:30:20,189 ERROR app Thread-2 : Error: Something went wrong, missing or wrong request body
+2024-11-21 18:30:20,189 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 18:30:20] "POST / HTTP/1.1" 200 -
+2024-11-21 18:30:58,929 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 18:30:58,983 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-21 18:31:00,483 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-21 18:31:00,484 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-21 18:31:00,484 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-21 18:31:00,511 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-21 18:31:00,517 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-21 18:31:05,264 ERROR app Thread-2 : Error: Something went wrong, missing or wrong request body
+2024-11-21 18:31:05,265 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2024 18:31:05] "POST / HTTP/1.1" 200 -
+2024-11-21 18:32:24,491 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-21 18:32:24,560 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 11:19:01,777 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 11:19:01,795 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 11:19:01,796 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 11:19:01,898 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 11:19:01,899 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-11-22 11:19:01,915 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 11:19:03,700 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 11:19:03,700 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 11:19:03,700 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 11:19:03,742 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 11:19:03,755 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 11:19:19,469 INFO app Thread-2 : Done: API Key generated successfully
+2024-11-22 11:19:19,473 INFO werkzeug Thread-2 : 127.0.0.1 - - [22/Nov/2024 11:19:19] "POST / HTTP/1.1" 200 -
+2024-11-22 12:06:56,327 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-22 12:07:04,251 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 12:17:15,615 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 12:17:15,651 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 12:17:15,651 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 12:17:15,887 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 12:17:15,887 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-11-22 12:17:15,895 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 12:17:17,822 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 12:17:17,823 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 12:17:17,825 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 12:17:17,909 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 12:17:17,939 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 12:17:35,650 ERROR app Thread-2 : Error: payment required in the request body
+2024-11-22 12:17:35,654 INFO werkzeug Thread-2 : 127.0.0.1 - - [22/Nov/2024 12:17:35] "POST / HTTP/1.1" 200 -
+2024-11-22 12:19:08,127 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-22 12:19:08,298 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 12:19:11,917 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 12:19:11,917 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 12:19:11,917 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 12:19:11,988 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 12:19:12,037 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 15:22:38,809 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-22 15:22:38,951 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 15:22:40,741 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 15:22:40,742 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 15:22:40,742 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 15:22:40,788 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 15:22:40,799 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 15:22:52,306 ERROR app Thread-2 : Error: payment required in the request body
+2024-11-22 15:22:52,306 INFO werkzeug Thread-2 : 127.0.0.1 - - [22/Nov/2024 15:22:52] "POST / HTTP/1.1" 200 -
+2024-11-22 15:23:34,472 INFO app Thread-3 : Done: API Key generated successfully
+2024-11-22 15:23:34,475 INFO werkzeug Thread-3 : 127.0.0.1 - - [22/Nov/2024 15:23:34] "POST / HTTP/1.1" 200 -
+2024-11-22 15:26:17,415 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-22 15:26:17,479 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 15:26:18,575 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 15:26:18,576 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 15:26:18,576 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 15:26:18,611 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 15:26:18,621 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 15:26:22,429 INFO app Thread-2 : Done: API Key generated successfully
+2024-11-22 15:26:22,432 INFO werkzeug Thread-2 : 127.0.0.1 - - [22/Nov/2024 15:26:22] "POST / HTTP/1.1" 200 -
+2024-11-22 15:29:36,247 INFO werkzeug Thread-3 : 127.0.0.1 - - [22/Nov/2024 15:29:36] "[31m[1mPOST /home HTTP/1.1[0m" 405 -
+2024-11-22 15:29:44,037 INFO werkzeug Thread-4 : 127.0.0.1 - - [22/Nov/2024 15:29:44] "GET /home HTTP/1.1" 200 -
+2024-11-22 15:35:33,156 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-22 15:35:33,231 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 15:35:34,171 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 15:35:34,172 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 15:35:34,172 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 15:35:34,198 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 15:35:34,207 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 15:35:42,576 INFO werkzeug Thread-2 : 127.0.0.1 - - [22/Nov/2024 15:35:42] "GET /home HTTP/1.1" 200 -
+2024-11-22 15:36:37,018 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-22 15:36:37,132 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 15:36:38,416 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 15:36:38,416 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 15:36:38,416 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 15:36:38,443 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 15:36:38,449 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 15:36:42,432 INFO werkzeug Thread-2 : 127.0.0.1 - - [22/Nov/2024 15:36:42] "GET /home HTTP/1.1" 200 -
+2024-11-22 15:37:12,872 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-22 15:37:12,933 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 15:37:13,900 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 15:37:13,900 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 15:37:13,900 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 15:37:13,923 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 15:37:13,929 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 15:37:16,424 INFO werkzeug Thread-2 : 127.0.0.1 - - [22/Nov/2024 15:37:16] "GET /home HTTP/1.1" 200 -
+2024-11-22 15:38:07,723 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-22 15:38:07,790 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 15:38:08,745 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 15:38:08,745 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 15:38:08,745 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 15:38:08,767 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 15:38:08,775 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 15:38:13,789 INFO werkzeug Thread-2 : 127.0.0.1 - - [22/Nov/2024 15:38:13] "GET /home HTTP/1.1" 200 -
+2024-11-22 15:40:27,333 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-22 15:40:27,388 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 15:40:28,218 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 15:40:28,219 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 15:40:28,219 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 15:40:28,245 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 15:40:28,251 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 15:41:37,945 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-22 15:41:38,001 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 15:41:38,775 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 15:41:38,775 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 15:41:38,775 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 15:41:38,797 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 15:41:38,804 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 15:41:49,234 INFO werkzeug Thread-2 : 127.0.0.1 - - [22/Nov/2024 15:41:49] "GET /home HTTP/1.1" 200 -
+2024-11-22 15:42:17,849 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\school\\school\\app.py', reloading
+2024-11-22 15:42:17,906 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 15:42:18,980 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 15:42:18,980 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 15:42:18,980 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 15:42:19,003 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 15:42:19,012 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 15:42:24,984 INFO werkzeug Thread-2 : 127.0.0.1 - - [22/Nov/2024 15:42:24] "GET /home HTTP/1.1" 200 -
+2024-11-22 15:52:54,305 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 15:52:54,305 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 15:52:54,305 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 15:52:54,354 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 15:52:54,354 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-11-22 15:52:54,357 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-22 15:52:55,283 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 15
+2024-11-22 15:52:55,283 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 17
+2024-11-22 15:52:55,283 WARNING dotenv.main MainThread : Python-dotenv could not parse statement starting at line 18
+2024-11-22 15:52:55,311 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-22 15:52:55,317 INFO werkzeug MainThread :  * Debugger PIN: 183-785-327
+2024-11-22 15:53:02,126 INFO werkzeug Thread-2 : 127.0.0.1 - - [22/Nov/2024 15:53:02] "GET /home HTTP/1.1" 200 -
